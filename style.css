@@ -1,0 +1,63 @@
+td{
+   height: 125px;
+   width: 125px;
+   border: solid white;
+
+}
+tr{
+   height: 30px;
+}
+.dug-bone{
+   background-color: #703c19;
+   background-image: url(bone.png);
+   background-repeat: no-repeat;
+   background-size: 80px;
+   background-position: center;
+
+}
+.dug{
+   background-color: #703c19;
+
+}
+.undug{
+   background-color: #216721;
+
+}
+.hidden-bone{
+
+}
+
+main{
+   border: solid black;
+   height: auto;
+   width: 50em;
+   margin-left: auto;
+   margin-right: auto;
+   font-size:large ;
+   background-color: #886953;
+}
+div{
+   font-size: large;
+   text-align: center;
+}
+form,p{
+   padding-left: 20em;
+}
+form{
+   padding-top: 1em;
+}
+table{
+   margin-left: auto;
+   margin-right: auto;
+}
+h1{
+   font-size: 500%;
+   text-align: center;
+   font-family: Monaco, serif;
+}
+#horray{
+   font-size: x-large;
+}
+body{
+   background-image: url(grass.jpeg);
+}
